@@ -1,0 +1,9 @@
+C:\github\OpenCompany\OpenCompany.Postprocessor\bin\Debug\OpenCompany.Postprocessor.exe
+C:\github\OpenCompany\OpenCompany.Postprocessor\bin\Debug\OpenCompany.Postprocessor.pdb
+C:\github\OpenCompany\OpenCompany.Postprocessor\bin\Debug\OpenCompany.Shared.dll
+C:\github\OpenCompany\OpenCompany.Postprocessor\bin\Debug\OpenCompany.Shared.pdb
+C:\github\OpenCompany\OpenCompany.Postprocessor\obj\Debug\OpenCompany.Postprocessor.csproj.AssemblyReference.cache
+C:\github\OpenCompany\OpenCompany.Postprocessor\obj\Debug\OpenCompany.Postprocessor.csproj.CoreCompileInputs.cache
+C:\github\OpenCompany\OpenCompany.Postprocessor\obj\Debug\OpenCompany.Postprocessor.csproj.CopyComplete
+C:\github\OpenCompany\OpenCompany.Postprocessor\obj\Debug\OpenCompany.Postprocessor.exe
+C:\github\OpenCompany\OpenCompany.Postprocessor\obj\Debug\OpenCompany.Postprocessor.pdb

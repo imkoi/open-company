@@ -1,0 +1,6 @@
+C:\github\OpenCompany\OpenCompany.Shared\bin\Debug\OpenCompany.Shared.dll
+C:\github\OpenCompany\OpenCompany.Shared\bin\Debug\OpenCompany.Shared.pdb
+C:\github\OpenCompany\OpenCompany.Shared\obj\Debug\OpenCompany.Shared.csproj.AssemblyReference.cache
+C:\github\OpenCompany\OpenCompany.Shared\obj\Debug\OpenCompany.Shared.csproj.CoreCompileInputs.cache
+C:\github\OpenCompany\OpenCompany.Shared\obj\Debug\OpenCompany.Shared.dll
+C:\github\OpenCompany\OpenCompany.Shared\obj\Debug\OpenCompany.Shared.pdb

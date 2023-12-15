@@ -1,0 +1,15 @@
+C:\github\OpenCompany\OpenCompany\bin\Debug\OpenCompany.exe
+C:\github\OpenCompany\OpenCompany\bin\Debug\OpenCompany.pdb
+C:\github\OpenCompany\OpenCompany\bin\Debug\OpenCompany.Postprocessor.exe
+C:\github\OpenCompany\OpenCompany\bin\Debug\OpenCompany.Preprocessor.exe
+C:\github\OpenCompany\OpenCompany\bin\Debug\OpenCompany.Shared.dll
+C:\github\OpenCompany\OpenCompany\bin\Debug\Mono.Cecil.dll
+C:\github\OpenCompany\OpenCompany\bin\Debug\OpenCompany.Postprocessor.pdb
+C:\github\OpenCompany\OpenCompany\bin\Debug\OpenCompany.Preprocessor.pdb
+C:\github\OpenCompany\OpenCompany\bin\Debug\OpenCompany.Shared.pdb
+C:\github\OpenCompany\OpenCompany\bin\Debug\Mono.Cecil.pdb
+C:\github\OpenCompany\OpenCompany\obj\Debug\OpenCompany.csproj.AssemblyReference.cache
+C:\github\OpenCompany\OpenCompany\obj\Debug\OpenCompany.csproj.CoreCompileInputs.cache
+C:\github\OpenCompany\OpenCompany\obj\Debug\OpenCompany.csproj.CopyComplete
+C:\github\OpenCompany\OpenCompany\obj\Debug\OpenCompany.exe
+C:\github\OpenCompany\OpenCompany\obj\Debug\OpenCompany.pdb
